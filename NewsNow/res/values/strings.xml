@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NewsNow</string>
+    <string name="hello_world">News Now</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">News Now</string>
+    <string name="title_section1">Favourites</string>
+    <string name="title_section2">Add to Favourites</string>
+    <string name="title_section3">Settings</string>
+    <string name="title_activity_setting">Setting</string>
+    <string name="title_activity_favourite">Favourite</string>
+    <string name="title_activity_broswer">BroswerActivity</string>
+
+</resources>
